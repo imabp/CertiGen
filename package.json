@@ -7,6 +7,9 @@
     "devStart": "nodemon server.js"
   },
   "author": "Abir Pal",
+  "author_github":"https://github.com/imabp",
+  "author_linkedin":"https://linkedin.com/in/imabp",
+  "author_email":"abir.pal899@gmail.com",
   "license": "ISC",
   "dependencies": {
     "body-parser": "^1.19.0",
