@@ -6,7 +6,7 @@
   "scripts": {
     "devStart": "nodemon server.js"
   },
-  "author": "",
+  "author": "Abir Pal",
   "license": "ISC",
   "dependencies": {
     "body-parser": "^1.19.0",
