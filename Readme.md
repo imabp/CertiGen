@@ -1,14 +1,17 @@
-# CertiGen
-```js
-WIP: "Azure Blobs Connection"
-
-```
 <p align="center">
-<img src="./images/Banner.png">
+<img src="./images/image 32.png" >
 </p>
 
+## Friendly Tutorial
+https://www.youtube.com/watch?v=cEDCV2HJxcU&feature=youtu.be
 
-# Installation & API
+## Contribution
+- The goals for this project are.
+  - We need a frontend so, remote generation of certificate can take place.
+  - We need a backend processing server on Azure, so users can directly, upload a certificate template, select the coordinates, where they want to put elements of certificate. 
+
+
+## Installation & API
 
 ### Installation
 <hr/>
