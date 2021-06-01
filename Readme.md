@@ -6,10 +6,8 @@
 https://www.youtube.com/watch?v=cEDCV2HJxcU&feature=youtu.be
 
 ## Contribution
-- The goals for this project are.
-  - We need a frontend so, remote generation of certificate can take place.
-  - We need a backend processing server on Azure, so users can directly, upload a certificate template, select the coordinates, where they want to put elements of certificate. 
-
+- Please find the GitHub Project Board [here](https://github.com/imabp/CertiGen/projects/1)
+- Share your features, by creating an issue [here](https://github.com/imabp/CertiGen/issues)
 
 ## Installation & API
 
